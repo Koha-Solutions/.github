@@ -60,11 +60,11 @@ Extending automation into the physical library: automated book sorting, transpor
 
 ### ☁️ Koha Cloud — [myopac.com](https://myopac.com)
 
-Scalable SaaS infrastructure that lets libraries use Koha **without managing their own servers, updates, backups, security, hosting, or email infrastructure**. Multiple libraries operate securely as independent tenants on a centralized platform.
+Hosted, cloud-based Koha that lets libraries use a complete library system **without managing their own servers, updates, backups, security, hosting, or email infrastructure**.
 
 | Capability | Description |
 |---|---|
-| 🏢 **Multi-Tenant Architecture** | Independent, secure tenants on one centralized platform |
+| ☁️ **Fully Hosted** | Secure, reliable cloud hosting managed by our team |
 | 🌐 **Your Own Subdomain & OPAC** | A public catalog running the day you sign up |
 | 📚 **MARC21 + Z39.50** | Cataloging with copy cataloging from external sources |
 | 🔄 **Circulation & Reports** | Holds, fines, acquisitions, serials and reporting |
@@ -107,7 +107,7 @@ Scalable SaaS infrastructure that lets libraries use Koha **without managing the
   ├───────────┬───────────┬───────────┬────────────┤
   │    AI     │   RFID    │ Robotics  │ Automation │
   ├───────────┴───────────┴───────────┴────────────┤
-  │          Koha Cloud (Multi-Tenant SaaS)        │
+  │           Koha Cloud (Hosted Koha)             │
   ├────────────────────────────────────────────────┤
   │                  Koha ILS Core                 │
   └────────────────────────────────────────────────┘
